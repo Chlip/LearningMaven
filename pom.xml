@@ -11,6 +11,8 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>bom-module</module>
+    <module>common-module</module>
+    <module>integration-module</module>
 
   </modules>
 
